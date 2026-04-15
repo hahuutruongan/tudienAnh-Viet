@@ -41,7 +41,8 @@ Hệ thống đã được đóng gói sẵn thành tệp `.exe`, không cần c
 
 ## 📚 Tài liệu tham khảo (References)
 
-1. **Wikipedia Contributors**, *Radix tree*, truy cập tại: [https://en.wikipedia.org/wiki/Radix_tree](https://en.wikipedia.org/wiki/Radix_tree)
-2. **GeeksforGeeks**, *Radix Tree (Compressed Trie)*, truy cập tại: [https://www.geeksforgeeks.org/radix-tree-compressed-trie/](https://www.geeksforgeeks.org/radix-tree-compressed-trie/)
-3. **Python Software Foundation**, *ctypes — A foreign function library for Python*, truy cập tại: [https://docs.python.org/3/library/ctypes.html](https://docs.python.org/3/library/ctypes.html)
-4. **C++ Reference**, *C++ Standard Library (`<string>`, `<map>`, `<sstream>`, `<cstring>`)*, truy cập tại: [https://cplusplus.com/reference/](https://cplusplus.com/reference/)
+1. **Wikipedia Contributors**, *Trie*, truy cập tại: [https://en.wikipedia.org/wiki/Trie](https://en.wikipedia.org/wiki/Trie)
+2. **Wikipedia Contributors**, *Radix tree*, truy cập tại: [https://en.wikipedia.org/wiki/Radix_tree](https://en.wikipedia.org/wiki/Radix_tree)
+3. **GeeksforGeeks**, *Trie Insert and Search*, truy cập tại: [https://www.geeksforgeeks.org/dsa/trie-insert-and-search/](https://www.geeksforgeeks.org/dsa/trie-insert-and-search/)
+4. **Python Software Foundation**, *ctypes — A foreign function library for Python*, truy cập tại: [https://docs.python.org/3/library/ctypes.html](https://docs.python.org/3/library/ctypes.html)
+5. **C++ Reference**, *C++ Standard Library*, truy cập tại: [https://cplusplus.com/reference/](https://cplusplus.com/reference/)
