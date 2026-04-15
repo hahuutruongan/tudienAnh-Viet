@@ -41,8 +41,7 @@ Hệ thống đã được đóng gói sẵn thành tệp `.exe`, không cần c
 
 ## 📚 Tài liệu tham khảo (References)
 
-1. **Donald R. Morrison (1968)**, *PATRICIA—Practical Algorithm To Retrieve Information Coded in Alphanumeric*, Journal of the ACM.
-2. **Wikipedia Contributors**, *Radix tree*, truy cập tại: [https://en.wikipedia.org/wiki/Radix_tree](https://en.wikipedia.org/wiki/Radix_tree)
-3. **GeeksforGeeks**, *Radix Tree (Compressed Trie)*, truy cập tại: [https://www.geeksforgeeks.org/radix-tree-compressed-trie/](https://www.geeksforgeeks.org/radix-tree-compressed-trie/)
-4. **Python Software Foundation**, *ctypes — A foreign function library for Python*, truy cập tại: [https://docs.python.org/3/library/ctypes.html](https://docs.python.org/3/library/ctypes.html)
-5. 5. **C++ Reference**, *C++ Standard Library (`<string>`, `<map>`, `<sstream>`, `<cstring>`)*, truy cập tại: [https://cplusplus.com/reference/](https://cplusplus.com/reference/)
+1. **Wikipedia Contributors**, *Radix tree*, truy cập tại: [https://en.wikipedia.org/wiki/Radix_tree](https://en.wikipedia.org/wiki/Radix_tree)
+2. **GeeksforGeeks**, *Radix Tree (Compressed Trie)*, truy cập tại: [https://www.geeksforgeeks.org/radix-tree-compressed-trie/](https://www.geeksforgeeks.org/radix-tree-compressed-trie/)
+3. **Python Software Foundation**, *ctypes — A foreign function library for Python*, truy cập tại: [https://docs.python.org/3/library/ctypes.html](https://docs.python.org/3/library/ctypes.html)
+4. **C++ Reference**, *C++ Standard Library (`<string>`, `<map>`, `<sstream>`, `<cstring>`)*, truy cập tại: [https://cplusplus.com/reference/](https://cplusplus.com/reference/)
