@@ -2,7 +2,7 @@
 
 **Sinh viên thực hiện:** Hà Hữu Trường An  
 **Mã số sinh viên:** 24520042  
-**Môn học:** Cấu trúc dữ liệu và Giải thuật
+**Môn học:** Cấu trúc dữ liệu và Giải thuật nâng cap
 
 Bài tập môn học: Xây dựng ứng dụng từ điển Tiếng Anh cơ bản (Thêm, Xóa, Tra cứu mục từ) sử dụng cấu trúc dữ liệu **Radix-Trie** (Cây cơ số) làm chỉ mục để tối ưu hóa không gian lưu trữ và tốc độ tìm kiếm.
 
